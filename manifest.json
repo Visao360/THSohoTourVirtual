@@ -36,9 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "TH Soho",
- "start_url": "index.htm?installed=true",
- "display": "fullscreen",
  "theme_color": "#05447C",
- "background_color": "#05447C"
+ "name": "TH Soho",
+ "background_color": "#05447C",
+ "display": "fullscreen",
+ "start_url": "index.htm?installed=true"
 }
