@@ -37,8 +37,8 @@
   }
  ],
  "name": "TH Soho",
+ "theme_color": "#05447C",
  "display": "fullscreen",
  "start_url": "index.htm?installed=true",
- "background_color": "#05447C",
- "theme_color": "#05447C"
+ "background_color": "#05447C"
 }
